@@ -16,7 +16,7 @@ This isn't going to mean much to you unless you go read about [Brunch][0].
 
 # Getting Started
 
-    brunch new <appname> --skeleton git@github.com:phleet/brunch-with-caffeine.git
+    brunch new github:phleet/brunch-with-caffeine <appname>
     brunch watch --server
 
 Then point your browser to http://localhost:3333/
